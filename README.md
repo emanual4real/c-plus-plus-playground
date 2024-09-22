@@ -1,0 +1,1 @@
+[Notes on build configuration](https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-build-configurations/)
